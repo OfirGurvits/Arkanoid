@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.2</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="53ad5bc5-1b29-47a2-a8f2-5d8537e0d29c" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="7f656a52-e2bb-4fd7-991c-f0362f6f7ae0" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="6018343e-3f60-4768-b952-bae2b14bced0" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="53ad5bc5-1b29-47a2-a8f2-5d8537e0d29c" type="HTTP_URL" scope="All" description="BIU CHECKSTLYE">https://raw.githubusercontent.com/wiki/ariecattan/biuoop2022/data/checkstyle/biuoop.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
